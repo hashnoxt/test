@@ -1,1 +1,1 @@
-print('tie t')
+print("tie t")
