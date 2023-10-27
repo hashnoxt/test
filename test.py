@@ -8,6 +8,7 @@ def its_me() -> None:
         print("yay")
 
     why()
+    why()
 
 
 its_me()
