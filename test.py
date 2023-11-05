@@ -1,5 +1,5 @@
 print("tie t")
-import requests
+
 
 def its_me() -> None:
     print("yoyo")
