@@ -12,3 +12,11 @@ def its_me() -> None:
 
 
 its_me()
+
+
+def its_you() -> None:
+    """Got"""
+    its_me()
+
+
+its_you()
